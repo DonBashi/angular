@@ -12,4 +12,7 @@ export class NavbarComponent implements OnInit {
   ngOnInit() {
   }
 
+  alert() {
+    alert("contact button was clicked");S
+  }
 }
