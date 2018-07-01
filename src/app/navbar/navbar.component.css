@@ -1,0 +1,13 @@
+#navBar {
+  width: 100vw;
+  height: 60px;
+  background: #2B0B30;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.navItem {
+  border-bottom: 2px solid white;
+  margin: 10px;
+  
+}
